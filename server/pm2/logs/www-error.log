@@ -1,0 +1,88 @@
+Error [ERR_HTTP_HEADERS_SENT]: Cannot remove headers after they are sent to the client
+    at ServerResponse.removeHeader (_http_outgoing.js:528:11)
+    at ServerResponse.send (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\express\lib\response.js:210:10)
+    at Query._callback (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\routes\index.js:28:5)
+    at Query.Sequence.end (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\Pool.js:205:13
+    at Handshake.onConnect (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\Pool.js:58:9)
+    at Handshake.<anonymous> (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\Connection.js:526:10)
+    at Handshake._callback (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\Connection.js:488:16)
+    at Handshake.Sequence.end (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Protocol.handleNetworkError (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\protocol\Protocol.js:369:14)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot remove headers after they are sent to the client
+    at ServerResponse.removeHeader (_http_outgoing.js:528:11)
+    at ServerResponse.send (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\express\lib\response.js:210:10)
+    at Query._callback (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\routes\index.js:28:5)
+    at Query.Sequence.end (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\Pool.js:205:13
+    at Handshake.onConnect (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\Pool.js:58:9)
+    at Handshake.<anonymous> (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\Connection.js:526:10)
+    at Handshake._callback (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\Connection.js:488:16)
+    at Handshake.Sequence.end (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Protocol.handleNetworkError (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\protocol\Protocol.js:369:14)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot remove headers after they are sent to the client
+    at ServerResponse.removeHeader (_http_outgoing.js:528:11)
+    at ServerResponse.send (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\express\lib\response.js:210:10)
+    at Query._callback (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\routes\index.js:28:5)
+    at Query.Sequence.end (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\Pool.js:205:13
+    at Handshake.onConnect (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\Pool.js:58:9)
+    at Handshake.<anonymous> (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\Connection.js:526:10)
+    at Handshake._callback (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\Connection.js:488:16)
+    at Handshake.Sequence.end (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Protocol.handleNetworkError (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\protocol\Protocol.js:369:14)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot remove headers after they are sent to the client
+    at ServerResponse.removeHeader (_http_outgoing.js:528:11)
+    at ServerResponse.send (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\express\lib\response.js:210:10)
+    at Query._callback (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\routes\index.js:28:5)
+    at Query.Sequence.end (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\Pool.js:205:13
+    at Handshake.onConnect (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\Pool.js:58:9)
+    at Handshake.<anonymous> (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\Connection.js:526:10)
+    at Handshake._callback (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\Connection.js:488:16)
+    at Handshake.Sequence.end (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Protocol.handleNetworkError (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\protocol\Protocol.js:369:14)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot remove headers after they are sent to the client
+    at ServerResponse.removeHeader (_http_outgoing.js:528:11)
+    at ServerResponse.send (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\express\lib\response.js:210:10)
+    at Query._callback (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\routes\index.js:28:5)
+    at Query.Sequence.end (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\Pool.js:205:13
+    at Handshake.onConnect (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\Pool.js:58:9)
+    at Handshake.<anonymous> (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\Connection.js:526:10)
+    at Handshake._callback (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\Connection.js:488:16)
+    at Handshake.Sequence.end (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Protocol.handleNetworkError (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\protocol\Protocol.js:369:14)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot remove headers after they are sent to the client
+    at ServerResponse.removeHeader (_http_outgoing.js:528:11)
+    at ServerResponse.send (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\express\lib\response.js:210:10)
+    at Query._callback (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\routes\index.js:28:5)
+    at Query.Sequence.end (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\Pool.js:205:13
+    at Handshake.onConnect (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\Pool.js:58:9)
+    at Handshake.<anonymous> (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\Connection.js:526:10)
+    at Handshake._callback (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\Connection.js:488:16)
+    at Handshake.Sequence.end (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Protocol.handleNetworkError (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\protocol\Protocol.js:369:14)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot remove headers after they are sent to the client
+    at ServerResponse.removeHeader (_http_outgoing.js:528:11)
+    at ServerResponse.send (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\express\lib\response.js:210:10)
+    at Query._callback (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\routes\index.js:28:5)
+    at Query.Sequence.end (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\Pool.js:205:13
+    at Handshake.onConnect (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\Pool.js:58:9)
+    at Handshake.<anonymous> (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\Connection.js:526:10)
+    at Handshake._callback (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\Connection.js:488:16)
+    at Handshake.Sequence.end (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Protocol.handleNetworkError (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\protocol\Protocol.js:369:14)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (_http_outgoing.js:470:11)
+    at ServerResponse.header (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\express\lib\response.js:767:10)
+    at ServerResponse.json (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\express\lib\response.js:264:10)
+    at Query._callback (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\routes\index.js:39:7)
+    at Query.Sequence.end (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\Pool.js:205:13
+    at Handshake.onConnect (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\Pool.js:58:9)
+    at Handshake.<anonymous> (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\Connection.js:526:10)
+    at Handshake._callback (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\Connection.js:488:16)
+    at Handshake.Sequence.end (C:\Users\DELL\etc\.pm2\node_modules\.bin\CALL_API\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)

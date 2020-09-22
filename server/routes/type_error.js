@@ -1,0 +1,1 @@
+module.exports.Type = 'ERROR_FOR_QUERY_SQLSERVER'
